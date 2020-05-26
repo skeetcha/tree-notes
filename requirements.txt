@@ -1,0 +1,2 @@
+pylint==2.5.2
+wxPython==4.1.0
