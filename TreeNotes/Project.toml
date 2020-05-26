@@ -1,0 +1,7 @@
+name = "TreeNotes"
+uuid = "4c53da18-122b-4542-b1bb-1897aa9dfa0b"
+authors = ["Daniel Unterholzner <pianojammer@comcast.net>"]
+version = "0.1.0"
+
+[deps]
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
